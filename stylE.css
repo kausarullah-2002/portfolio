@@ -1,0 +1,165 @@
+*{
+          box-sizing: border-box;
+}
+html,body{
+          width: 100%;
+}
+body{
+          margin: 0;
+          padding: 0;
+          background-color: black;
+}
+.main{
+          margin: 100px auto;
+          background-color: white;
+          border: 0px solid gray;
+          width: 700px;
+          height: 950px;
+          position: relative;
+          top: 0;
+          left: 0;
+          box-sizing: border-box;
+}
+
+.div2{
+          width: 80%;
+          background-color: #eaeaea;
+          height: 30%;
+          position: absolute;
+          top: 0;
+          left: 20%;
+}
+.div2 h1{
+          margin-top: 65px;
+          margin-left: 5px;
+          margin-left: 200px;
+}
+.div2 hr{
+          margin-top: -20px;
+       border: 0;
+        background-color: orange;
+        outline: 0;
+         height: 2px;
+         margin-left: 200px;
+}
+.div2 p{
+          padding: 15px;
+          margin-left: 200px;
+}
+.div3{
+          width: 20%;
+          height: 35%;
+          border: 0px solid black;
+          background-color: orange;
+}
+.div4{
+          position: relative;
+          top: 0;
+          left: 0;
+}
+.div4 img{
+          width: 250px;
+          height: 400px;
+          position: absolute;
+          top: -300px;
+          left:44px;
+          border-radius: 4px;
+          box-shadow: 3px 3px 4px;
+}
+.div5{
+          width: 50%;
+          height: 50%;
+          position: absolute;
+          top: 30%;
+          left:346px;
+          border: 0px solid black;
+}
+.div5 h1{
+          font-size: 24px;
+
+}
+.div5 hr{
+          margin-top: -13px;
+          border: 0;
+          background-color: orange;
+          height: 2px;
+          margin-left: 0px;
+}
+.div5 p{
+          margin-bottom: -12px;
+}
+.div6{
+          width: 50%;
+          height: 18%;
+          position: absolute;
+          top: 74%;
+          left:346px;
+          border:0px solid black;
+}
+.div6 h1{
+font-size: 25px;
+}
+.div6 hr{
+          margin-top: -13px;
+          border: 0;
+          background-color: orange;
+          height: 2px;
+          margin-left: 0px;
+}
+.div7{
+          width: 50%;
+          height: 2%;
+          position: absolute;
+          top: 98%;
+          left:350px;
+          border:0px solid black;
+          background-color: orange;
+}
+.div8{
+          width: 44%;
+          height: 14%;
+          border: 0px solid black;
+          position: absolute;
+          top: 46%;
+          left: 50px; 
+}
+.div9{
+          width: 37%;
+          height: 20%;
+          border: 0px solid black;
+          position: absolute;
+          top: 57%;
+          left: 50px;
+}
+.div9 a{
+          text-decoration: none;
+          font-size: 17px;
+}
+.div9 hr{
+          margin-top: -8px;
+          border: 0;
+          background-color: orange;
+          height: 2px;
+          margin-left: 0px;
+}
+.div9 i{
+          margin-right: 10px;
+          color: orange;
+}
+.div10{
+          width: 44%;
+          height: 10%;
+          border: 0px solid black;
+          position: absolute;
+          top: 74%;
+          left: 50px;
+}
+.div10 hr{
+          margin-top: -8px;
+          border: 0;
+          background-color: orange;
+          height: 2px;
+          width: 80%;
+          margin-left: 0px;
+}
+
